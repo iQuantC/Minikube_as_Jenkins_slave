@@ -14,4 +14,4 @@
 
 ### 4. Modify the kube config file with the contents for ca.crt, client.crt, and client.key. Don't forget to "-data" to certificate-authority, client-certificate, and client-key.
 
-###5. Build a simple Jenkins job to run a shell command.
+### 5. Build a simple Jenkins job to run a shell command.
